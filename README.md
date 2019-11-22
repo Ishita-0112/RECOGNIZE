@@ -27,7 +27,7 @@ Using PyTorch 0.3 will break the detector.
 
 ## Detection Example
 
-![Detection Example](https://i.imgur.com/m2jwneng.png)
+![Detection Example]
 ## Running the detector
 
 ### On single or multiple images
